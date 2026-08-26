@@ -1,0 +1,6 @@
+{
+  "name": "Heaven Interiors",
+  "description": "Showcase portfolio, client testimonials, and consultation booking for Heaven Interior's in Vizianagaram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
